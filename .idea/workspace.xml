@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ebe8678-f192-4647-811b-5c50cfeac925" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LargestNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlphabetCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RepeatedNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseNums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -39,12 +44,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlphabetCase.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
     "Application.IfElse.executor": "Run",
     "Application.Inputs.executor": "Run",
     "Application.LargestNum.executor": "Run",
     "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Q1.executor": "Run",
+    "Application.ReverseNums.executor": "Run",
     "Application.SimpleTempConvertor.executor": "Run",
     "Application.Sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,7 +116,7 @@
       <updated>1731152896810</updated>
       <workItem from="1731152898007" duration="4242000" />
       <workItem from="1731216188592" duration="17300000" />
-      <workItem from="1731297219544" duration="4223000" />
+      <workItem from="1731297219544" duration="16486000" />
     </task>
     <servers />
   </component>
