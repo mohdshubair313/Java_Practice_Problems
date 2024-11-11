@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ebe8678-f192-4647-811b-5c50cfeac925" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleTempConvertor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +30,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2obz5oJWNY1oGg4YJIwPwB099Da" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,8 +40,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.IfElse.executor": "Run",
-    "Application.Inputs.executor": "Debug",
+    "Application.Inputs.executor": "Run",
+    "Application.LargestNum.executor": "Run",
+    "Application.Loop.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Q1.executor": "Run",
     "Application.SimpleTempConvertor.executor": "Run",
     "Application.Sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -68,6 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LargestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargestNum" />
+      <module name="JavaProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sum" />
       <module name="JavaProgram" />
@@ -77,8 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.LargestNum" />
         <item itemvalue="Application.Inputs" />
+        <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1731152896810</updated>
       <workItem from="1731152898007" duration="4242000" />
-      <workItem from="1731216188592" duration="3863000" />
+      <workItem from="1731216188592" duration="17300000" />
+      <workItem from="1731297219544" duration="4223000" />
     </task>
     <servers />
   </component>
