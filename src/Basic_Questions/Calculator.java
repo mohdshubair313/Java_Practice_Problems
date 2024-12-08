@@ -1,3 +1,5 @@
+package Basic_Questions;
+
 import java.util.Scanner;
 
 public class Calculator {
@@ -34,11 +36,8 @@ public class Calculator {
                 if (op == '%') {
                     ans = num1 % num2;
                 }
-                else if (op =='x' || op == 'X') {
-                    break;
-                }
                 else {
-                    System.out.println("Invalid Inputs are you entering! Please enter valid inputs");
+                    System.out.println("Invalid Basic_Questions.Inputs are you entering! Please enter valid inputs");
                 }
             }
         System.out.println("Your calculation is " + ans);

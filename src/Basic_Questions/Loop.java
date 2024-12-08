@@ -1,3 +1,5 @@
+package Basic_Questions;
+
 public class Loop {
     public static void main(String[] args) {
 //        For loop (you used when you know how many times you need to run the loop ex: print first 10 numbers )
@@ -5,7 +7,7 @@ public class Loop {
 //            System.out.println(i);
 //        }
 
-//        while Loop (you used when you don't know how many times you need to run the loop ex: Keep the inputs from user until user not press x or any button )
+//        while Basic_Questions.Loop (you used when you don't know how many times you need to run the loop ex: Keep the inputs from user until user not press x or any button )
 //        int num = 1;
 //        while (num <= 5) {
 //            System.out.println(num);

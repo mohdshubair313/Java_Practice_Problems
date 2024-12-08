@@ -1,4 +1,5 @@
-import java.nio.file.FileSystemNotFoundException;
+package Basic_Questions;
+
 import java.util.Scanner;
 
 public class AlphabetCase {

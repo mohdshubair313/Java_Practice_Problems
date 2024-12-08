@@ -1,3 +1,5 @@
+package Basic_Questions;
+
 public class IfElse {
     public static void main(String[] args) {
 //        int count = 1;       // it will take first as an variable outside

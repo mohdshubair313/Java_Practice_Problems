@@ -1,3 +1,5 @@
+package Basic_Questions;
+
 public class RepeatedNum {
     public static void main(String[] args) {
         int n = 45532;

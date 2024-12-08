@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ebe8678-f192-4647-811b-5c50cfeac925" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Methods/Parameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/SumQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwitchCase/NestedSwitch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/ChangeValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/ChangeValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shadowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shadowing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,38 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AlphabetCase.executor": "Run",
-    "Application.Basics.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
-    "Application.IfElse.executor": "Run",
-    "Application.Inputs.executor": "Run",
-    "Application.LargestNum.executor": "Run",
-    "Application.Loop.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NestedSwitch.executor": "Run",
-    "Application.Parameter.executor": "Run",
-    "Application.Q1.executor": "Run",
-    "Application.ReverseNums.executor": "Run",
-    "Application.SimpleTempConvertor.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.SumQuestion.executor": "Run",
-    "Application.basic.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AlphabetCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Armstrong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inputs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Parameter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleTempConvertor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Inputs">
     <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inputs" />
       <module name="JavaProgram" />
@@ -98,8 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestNum" />
         <item itemvalue="Application.Inputs" />
+        <item itemvalue="Application.LargestNum" />
         <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
@@ -123,7 +123,11 @@
       <workItem from="1731152898007" duration="4242000" />
       <workItem from="1731216188592" duration="17300000" />
       <workItem from="1731297219544" duration="19957000" />
-      <workItem from="1731388059682" duration="12712000" />
+      <workItem from="1731388059682" duration="15243000" />
+      <workItem from="1731465654384" duration="8977000" />
+      <workItem from="1731652911834" duration="1620000" />
+      <workItem from="1731825012801" duration="2114000" />
+      <workItem from="1731936557152" duration="243000" />
     </task>
     <servers />
   </component>
